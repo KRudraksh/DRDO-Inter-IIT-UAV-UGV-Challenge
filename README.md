@@ -1,1 +1,0 @@
-# DRDO-Inter-IIT-UAV-UGV-Challenge
