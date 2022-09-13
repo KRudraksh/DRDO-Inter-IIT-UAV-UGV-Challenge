@@ -34,5 +34,4 @@
   roslaunch interiit22 drdo_world2.launch
   ```
 
-  -- Add more instructions here --
 
